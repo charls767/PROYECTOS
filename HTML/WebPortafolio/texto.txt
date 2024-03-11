@@ -1,0 +1,16 @@
+<h3>Soy Carlos Alberto Acevedo Carmona, estudiante de ingenieria quimica e ingenieria en sistemas.</h3> 
+           <p class="Texto1">
+            Soy Carlos Alberto Acevedo, un estudiante comprometido y apasionado por el mundo de la ingeniería química y sistemas. Con una mente inquisitiva y un deseo insaciable de aprender, he dedicado mi tiempo y energía a expandir mis conocimientos en estas áreas de estudio.
+
+<br>Proveniente de una familia que valora la educación y el crecimiento personal, desde temprana edad he demostrado una curiosidad innata por entender cómo funcionan las cosas y cómo pueden mejorarse. Esta curiosidad me llevó a embarcarme en el apasionante viaje de la ingeniería, donde he encontrado mi verdadera vocación.
+
+<br>En la actualidad, estoy inmerso en mi formación académica en ingeniería química y sistemas. Con una mentalidad orientada hacia el futuro, reconozco la importancia de adquirir habilidades relevantes para el mundo laboral actual. Es por eso que, además de mi currículo universitario, he decidido complementar mi formación con cursos especializados en herramientas como Power BI, con el objetivo de aplicarlas en el análisis de datos en la industria.
+
+<br>La decisión de incursionar en el campo de la ciencia de datos muestra mi visión de futuro y mi comprensión de la importancia de la tecnología en el mundo moderno. Reconozco que el análisis de datos es una habilidad altamente demandada en una variedad de industrias, desde la manufactura hasta la biotecnología, y estoy decidido a estar a la vanguardia en este campo emergente.
+
+<br>Pero no solo me destaco por mi dedicación académica; también soy conocido por mi habilidad para comunicarme efectivamente y trabajar en equipo. Con una personalidad extrovertida y un don natural para la comunicación, soy capaz de transmitir mis ideas de manera clara y persuasiva. Esto me convierte en un líder nato, capaz de inspirar y motivar a quienes me rodean para alcanzar objetivos comunes.
+
+<br>Mi destreza en el trabajo en equipo se complementa con mi habilidad para planificar y ejecutar proyectos de manera eficiente. Entiendo la importancia de la organización y la gestión del tiempo para el éxito de cualquier empresa, y me enorgullezco de mi capacidad para mantenerme enfocado y cumplir con los plazos establecidos.
+
+Para mí, la educación es un viaje continuo de descubrimiento y crecimiento. Estoy constantemente buscando oportunidades para enriquecer mis conocimientos y experiencias, con el objetivo final de contribuir de manera significativa al mundo laboral. Con una mentalidad abierta y una actitud proactiva, estoy listo para enfrentar los desafíos que el futuro pueda traer y convertirme en un líder destacado en mi campo.
+           </p> 
