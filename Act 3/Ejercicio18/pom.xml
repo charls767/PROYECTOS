@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.ejercicio18.Ejercicio18</exec.mainClass>
     </properties>
+    <name>Ejercicio18-GUI</name>
 </project>
