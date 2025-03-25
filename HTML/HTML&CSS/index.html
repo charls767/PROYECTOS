@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="estilos.css">
+    <title>Sobre Mí :D </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Lora:ital,wght@0,400..700;1,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <body>
+        <div class="Barra_menu">
+            <div id="imagen-personal">
+                <img src="img/DF.jpg" />
+                <div id="imagen-texto">Carlos Acevedo</div>
+            </div>
+            <div class="menu-icon" onclick="toggleMenu()">☰</div>
+            <div id="toolbar">
+                <ul id="nav-menu">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About me</a></li>
+                    <li><a href="#">Proyectos</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="social-container">
+            <a href="#" class="social-icon facebook" title="Facebook">F</a>
+            <a href="#" class="social-icon twitter" title="Twitter">X</a>
+            <a href="#" class="social-icon instagram" title="Instagram">I</a>
+            <a href="#" class="social-icon linkedin" title="LinkedIn">L</a>
+        </div>
+        
+        <div id="CajaTitulo">
+            <div id="ContenidoTitulo">
+                <h1 id="titulo">Hey, Soy Carlos Acevedo</h1>
+                <p id="subtitulo">Desarrollador de software con bases en Ingeniería Química y de Sistemas.</p>
+            </div>
+        </div>
+        
+        
+        
+    <div id="bloque-informacion">
+    <p class="Parrafo" >Soy Carlos Acevedo, estudiante de Ingeniería Química y de Sistemas. Tengo conocimientos en diversas tecnologías. Tengo conocimientos en desarrolo de software y simulación avanzada. Tengo particular interes en el desarrollo de software para la industria de procesos.</p>
+    </div>
+    <div class="Bloque_Proyectos">
+        <h2 id="Proyectos">Mis Proyectos</h2>
+        <div class="carrusel">
+            <button class="prev" onclick="moverCarrusel(-1)">&#10094;</button>
+            <div class="carrusel-contenedor">
+                <div class="carrusel-item">
+                    <img src="img/LogoTermolab.PNG" alt="Proyecto 1">
+                    <p>Aplicación para calcular estados termodinámicos con Python.</p>
+                </div>
+                <div class="carrusel-item">
+                    <img src="img/SimulacionS.png" alt="Proyecto 2">
+                    <p>Simulación de sistemas.</p>
+                </div>
+                <div class="carrusel-item">
+                    <img src="img/teoria-de-conjuntos-de-graficos.png" alt="Proyecto 3">
+                    <p>Software para la industria química.</p>
+                </div>
+                <div class="carrusel-item">
+                    <img src="imagen4.jpg" alt="Proyecto 4">
+                    <p>Optimización de procesos.</p>
+                </div>
+            </div>
+            <button class="next" onclick="moverCarrusel(1)">&#10095;</button>
+        </div>
+    </div>
+    <h2>Mis Intereses</h2>
+    <p>Me interesa la programación, la simulación de procesos y el desarrollo de software relacionado con la ingeniería.</p>
+    </article>
+    <h2>Deja un Comentario</h2>
+    <form action="#" method="post">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+        
+        <label for="comentario">Comentario:</label><br>
+        <textarea id="comentario" name="comentario" rows="4" cols="50" required></textarea><br><br>
+        
+        <input type="submit" value="Enviar">
+    </form>
+    
+    <footer>
+        <p>Contacto: <a href="caacevedo@unal.edu.co">caacevedo@unal.edu.co</a></p>
+    </footer>
+    <script src="app.js"></script>
+    <script src="app2.js"></script>
+
+
+</body>
+</html>
